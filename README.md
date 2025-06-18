@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+YOUR_NAME;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Aritra Das;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 <!-- Profile Banner -->
