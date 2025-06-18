@@ -13,22 +13,22 @@
   <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Statistics</h2>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="192px"/>
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AritraDas07&show_icons=true&theme=radical&hide_border=true&count_private=true" height="192px"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="192px"/>
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritraDas07&layout=compact&theme=radical&hide_border=true" height="192px"/>
     </a>
   </p>
   
   <!-- GitHub Contribution Graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="98%">
+    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AritraDas07&theme=tokyo-night&hide_border=true" width="98%">
   </a>
   
   <!-- GitHub Streak -->
   <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="GitHub Streak" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
+      <img title="GitHub Streak" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=AritraDas07&theme=radical&hide_border=true"/>
     </a>
   </p>
 </div>
@@ -97,7 +97,7 @@
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=AritraDas07&style=flat-square&color=blueviolet" alt="Profile Views">
 </div>
 
 <!-- Random Dev Quote -->
