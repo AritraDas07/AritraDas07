@@ -19,7 +19,9 @@
       <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritraDas07&layout=compact&theme=radical&hide_border=true" height="192px"/>
     </a>
   </p>
-  
+  <div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
   <!-- GitHub Contribution Graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AritraDas07&theme=tokyo-night&hide_border=true" width="98%">
